@@ -1,0 +1,7 @@
+{
+   "logging": {
+       "log_file_name": "app.log",
+       "logdir": "",
+       "level": ""
+   }
+}
